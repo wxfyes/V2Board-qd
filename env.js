@@ -1,10 +1,10 @@
 window.settings = {
   // 站点标题
-  title: '标题',
+  title: '天阙',
   // 站点描述
   description: '没有最好 只有更好',
   // API
-  host: 'https://站点',
+  host: 'https://go2.tianquege.top',
   // 主题
   theme: {
     sidebar: 'dark',
