@@ -1,10 +1,10 @@
 window.settings = {
   // 站点标题
-  title: '天阙',
+  title: '标题',
   // 站点描述
-  description: '没有最好 只有更好',
+  description: '经典语录',
   // API
-  host: 'https://go2.tianquege.top',
+  host: 'https://ceshi.com',
   // 主题
   theme: {
     sidebar: 'dark',
